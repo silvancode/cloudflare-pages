@@ -2,6 +2,7 @@ header, footer {
     text-align: center;
     background-color: green;
     color: white;
+    padding: 1rem;
 }
 
 body{
