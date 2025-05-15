@@ -1,14 +1,11 @@
-header{
+header, footer {
     text-align: center;
-
-}
-footer{
-    text-align: left;
-
-
+    background-color: green;
+    color: white;
+    padding: 1rem;
 }
 
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: green;
+    color: black;
 }
